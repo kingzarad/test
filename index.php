@@ -8,6 +8,7 @@
 <nav>
 	<div style="width: auto;">
 		<h1 style="color:#636363;text-align: center;">Welcome To TechCabz Web</h1>
+		<?php echo time("Y"); ?>
 		<hr>
 	</div>
 </nav>
